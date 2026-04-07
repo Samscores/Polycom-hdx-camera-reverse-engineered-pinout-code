@@ -33,3 +33,9 @@ Used the protocol commands to control the camera
 
 Implemented control code in PolycomPTZGUI (mainwindow.axaml.cs)
 
+links
+
+https://github.com/ca0abinary/Polycom-MPTZ-Protocol
+
+https://5.imimg.com/data5/SELLER/Doc/2023/1/JL/VF/HF/160835820/hdci-break-out-cable.PDF
+
