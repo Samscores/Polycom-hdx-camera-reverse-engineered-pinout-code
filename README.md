@@ -33,7 +33,7 @@ Used the protocol commands to control the camera
 
 Implemented control code in PolycomPTZGUI (mainwindow.axaml.cs)
 
-links
+Links:
 
 https://github.com/ca0abinary/Polycom-MPTZ-Protocol
 
