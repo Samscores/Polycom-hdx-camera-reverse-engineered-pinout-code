@@ -1,5 +1,5 @@
 # Polycom-hdx-camera-reverse-engineered-pinout-code
-made with connor
+Made with connor
 created on linux mint machine with db9 port
 Starting process pinout:
 We discovered on the female hdci port that communicates with rs232 serial the top row of pins read 15-1 (right to left) and not left to right this cause us a great amount of probing with a multimeter to dicover
